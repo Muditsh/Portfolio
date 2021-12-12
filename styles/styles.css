@@ -1,0 +1,61 @@
+html, body{
+  background-color: rgba(128, 128, 128, 0.5);
+  font-family: 'Bangers';
+}
+
+.carousel{
+  max-height: 35rem;
+}
+
+.sliderImage{
+  max-height: 35rem;
+  background-color: black;
+}
+
+.sliderImage img{
+  opacity: 25%;
+}
+
+.navbar-custom{
+  background-color: whitesmoke;
+  opacity: 60%;
+}
+
+.navbar-brand{
+  font-family: 'Bungee Inline';
+  font-weight: bold;
+  color: black;
+}
+
+nav .navbar-nav li a{
+  font-family: 'Bungee Inline';
+  color: black !important;
+  font-weight: bolder;
+  }
+
+.jumbotron{
+  background-image: url(../img/jumbotron_bg.jpg);
+  border-radius: 15px 15px 15px 15px;
+}
+
+.card{
+  width: 18rem;
+  height: auto;
+}
+
+footer{
+  background-color: black;
+}
+
+.fa{
+  padding: 3rem;
+  font-size: 3rem;
+  width: 6rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+#goTop{
+  width: 2rem;
+  height: 2rem;
+}
